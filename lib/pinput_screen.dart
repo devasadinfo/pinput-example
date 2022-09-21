@@ -1,3 +1,6 @@
+// note:Pinput Package is dev tools
+// use package:
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pinput/pinput.dart';
