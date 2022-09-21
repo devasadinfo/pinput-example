@@ -1,5 +1,5 @@
 // note:Pinput Package is dev tools
-// use package:dependency pinput package version and sdk pug get istall
+// use package:dependency pinput package version and sdk pug get istallsp
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -168,3 +168,4 @@ class _VerificationCodeScreenState extends State<PinputScreen> {
     );
   }
 }
+// tyscript
