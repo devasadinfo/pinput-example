@@ -1,5 +1,5 @@
 // note:Pinput Package is dev tools
-// use package:
+// use package:dependency pinput package version and sdk pug get istall
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
