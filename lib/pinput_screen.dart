@@ -54,7 +54,7 @@ class _VerificationCodeScreenState extends State<PinputScreen> {
                       ),
                     ),
                     TextSpan(
-                      text: 'abcd@gmail.com ',
+                      text: 'developer@gmail.com ',
                       style: GoogleFonts.urbanist(
                         fontSize: 14.0,
                         color: const Color(0xff005BE0),
@@ -168,4 +168,3 @@ class _VerificationCodeScreenState extends State<PinputScreen> {
     );
   }
 }
-// tyscript
